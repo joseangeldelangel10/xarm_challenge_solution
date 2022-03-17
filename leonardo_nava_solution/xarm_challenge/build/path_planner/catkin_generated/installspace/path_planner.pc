@@ -1,0 +1,8 @@
+prefix=/home/leonardonava/ManipulatorsFeb2022-Students/04_03_2022/challenge/xarm_challenge/install
+
+Name: path_planner
+Description: Description of path_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

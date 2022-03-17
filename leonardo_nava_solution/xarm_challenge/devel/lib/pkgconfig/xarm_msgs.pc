@@ -1,0 +1,8 @@
+prefix=/home/leonardonava/ManipulatorsFeb2022-Students/04_03_2022/challenge/xarm_challenge/devel
+
+Name: xarm_msgs
+Description: Description of xarm_msgs
+Version: 0.0.0
+Cflags: -I/home/leonardonava/ManipulatorsFeb2022-Students/04_03_2022/challenge/xarm_challenge/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_generation message_runtime

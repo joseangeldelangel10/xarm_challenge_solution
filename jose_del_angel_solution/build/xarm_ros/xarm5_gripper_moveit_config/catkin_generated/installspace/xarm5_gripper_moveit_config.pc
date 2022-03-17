@@ -1,0 +1,8 @@
+prefix=/home/jose/Documents/6to_semestre/ROSpractices/ManipulatorsFeb2022-Students/04_03_2022/challenge/xarm_challenge/install
+
+Name: xarm5_gripper_moveit_config
+Description: Description of xarm5_gripper_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
